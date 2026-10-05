@@ -2,21 +2,15 @@
 
 Free, ad-free idle car tycoon + driving web game.
 
-## Play
+**Play:** https://dashjuvi.github.io/car-empire/
 
-- **GitHub Pages (canonical):** https://dashjuvi.github.io/car-empire/
-- **Instant preview (works while Pages propagates):** https://htmlpreview.github.io/?https://raw.githubusercontent.com/dashjuvi/car-empire/gh-pages/index.html
-- **Also mirrored under Tiny Colony:** https://dashjuvi.github.io/tiny-colony/garage-rush/
+**Mirrors (if Pages is slow):**
+- https://dashjuvi.github.io/tiny-colony/garage-rush/
+- https://htmlpreview.github.io/?https://raw.githubusercontent.com/dashjuvi/car-empire/gh-pages/index.html
+- https://cdn.jsdelivr.net/gh/dashjuvi/car-empire@gh-pages/index.html
 
-## Features
+Single-file vanilla JS. Collect luxury cars (Porsche, Ferrari, Lamborghini, Aston Martin, Bugatti, Tesla, McLaren), drive stages from Local Streets to the Multiverse, prestige, and speedrun.
 
-- Drive mode with touch gas/steer, nitro, coins, hoops, traffic
-- Garage: Porsche, Ferrari, Lamborghini, Aston Martin, Bugatti, Tesla, McLaren + hypercars/space cars
-- Idle income from your fleet
-- 10-stage campaign → Multiverse victory + endless
-- Prestige: Ascend (Blueprints) → Evolve (Chassis) → Transcend (Legend); higher layers bank lower currencies
-- Skill trees + gadgets (magnet, missile, time warp)
-- Speedrun mode with splits + local top-10 leaderboard
-- Autosave, offline earnings, export/import, PWA meta
+v1.1 driving: throttle build-up, understeer, light drift, chase camera, weighty crashes, ramped nitro.
 
-No ads, no tracking, no IAP. Single self-contained `index.html`.
+No ads, no tracking, no IAP. Offline-friendly. Add to Home Screen on iPhone.
